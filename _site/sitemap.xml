@@ -26,6 +26,12 @@
   
   
   <url>
+    <loc>http://0.0.0.0:4000/bluetick.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://0.0.0.0:4000/bluetick_landing_page.html</loc>
   </url>
   
@@ -92,7 +98,7 @@
   
   
   <url>
-    <loc>http://0.0.0.0:4000/bluetick.html</loc>
+    <loc>http://0.0.0.0:4000/bluetick_sample6.html</loc>
   </url>
   
   

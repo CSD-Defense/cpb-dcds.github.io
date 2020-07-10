@@ -6,6 +6,17 @@
 {
 "title": "Bluetick",
 "tags": "",
+"keywords": "bluetick info",
+"url": "bluetick.html",
+"summary": "Network Entropy Stuff"
+}
+,
+
+
+
+{
+"title": "Bluetick",
+"tags": "",
 "keywords": "mydoc",
 "url": "bluetick_landing_page.html",
 "summary": ""
@@ -128,7 +139,7 @@
 "title": "Sample 6 Topic",
 "tags": "",
 "keywords": "sample",
-"url": "bluetick.html",
+"url": "bluetick_sample6.html",
 "summary": "This is just a sample topic..."
 }
 ,

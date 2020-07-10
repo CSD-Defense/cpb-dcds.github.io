@@ -3,7 +3,7 @@ title: Sample 6 Topic
 keywords: sample
 summary: "This is just a sample topic..."
 sidebar: bluetick_sidebar
-permalink: bluetick.html
+permalink: bluetick_sample6.html
 simple_map: true
 map_name: usermapcomplex
 box_number: 1
