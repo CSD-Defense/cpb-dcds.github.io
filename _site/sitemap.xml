@@ -38,85 +38,7 @@
   
   
   <url>
-    <loc>http://0.0.0.0:4000/bluetick_sample1.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://0.0.0.0:4000/bluetick_sample10.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://0.0.0.0:4000/bluetick_sample11.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://0.0.0.0:4000/bluetick_sample12.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://0.0.0.0:4000/bluetick_sample13.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://0.0.0.0:4000/bluetick_sample14.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://0.0.0.0:4000/bluetick_sample2.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://0.0.0.0:4000/bluetick_sample3.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://0.0.0.0:4000/bluetick_sample4.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://0.0.0.0:4000/bluetick_sample5.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://0.0.0.0:4000/bluetick_sample6.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://0.0.0.0:4000/bluetick_sample7.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://0.0.0.0:4000/bluetick_sample8.html</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://0.0.0.0:4000/bluetick_sample9.html</loc>
+    <loc>http://0.0.0.0:4000/bluetick_user_guide.html</loc>
   </url>
   
   
@@ -551,12 +473,6 @@
   
   <url>
     <loc>http://0.0.0.0:4000/assets/css/style.css</loc>
-  </url>
-  
-  
-  
-  <url>
-    <loc>http://0.0.0.0:4000/pages/bluetick/bluetick_sample15.html</loc>
   </url>
   
   

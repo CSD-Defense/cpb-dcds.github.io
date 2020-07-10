@@ -8,7 +8,7 @@
 "tags": "",
 "keywords": "bluetick info",
 "url": "bluetick.html",
-"summary": "Network Entropy Stuff"
+"summary": "Analyzes payload entropy, file signatures, and other signature-based methods to identify whether or not the contents of an arbitrary file is encrypted, encoded, or plaintext"
 }
 ,
 
@@ -26,154 +26,11 @@
 
 
 {
-"title": "Sample 1 Topic",
+"title": "Bluetick User Guide",
 "tags": "",
-"keywords": "sample",
-"url": "bluetick_sample1.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 10 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "bluetick_sample10.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Bluetick sample 11",
-"tags": "",
-"keywords": "sample",
-"url": "bluetick_sample11.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 12 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "bluetick_sample12.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 13 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "bluetick_sample13.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 14 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "bluetick_sample14.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 2 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "bluetick_sample2.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 3 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "bluetick_sample3.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 4 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "bluetick_sample4.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 5 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "bluetick_sample5.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 6 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "bluetick_sample6.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 7 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "bluetick_sample7.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 8 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "bluetick_sample8.html",
-"summary": "This is just a sample topic..."
-}
-,
-
-
-
-{
-"title": "Sample 9 Topic",
-"tags": "",
-"keywords": "sample",
-"url": "bluetick_sample9.html",
-"summary": "This is just a sample topic..."
+"keywords": "bluetick user guide",
+"url": "bluetick_user_guide.html",
+"summary": ""
 }
 ,
 
@@ -937,17 +794,6 @@
 "tags": "",
 "keywords": "",
 "url": "assetscssstyle.css",
-"summary": ""
-}
-,
-
-
-
-{
-"title": "",
-"tags": "",
-"keywords": "",
-"url": "pagesbluetickbluetick_sample15.html",
 "summary": ""
 }
 ,

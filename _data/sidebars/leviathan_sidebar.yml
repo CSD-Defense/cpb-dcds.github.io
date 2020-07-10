@@ -1,8 +1,9 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
+
 entries:
-- title: Bluetick
-  product: Bluetick
+- title: Sidebar
+  product: Leviathan
   version: 1.0
   folders:
 
@@ -19,18 +20,14 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Introduction
+  - title: Getting Started
     output: web, pdf
     folderitems:
-
-    - title: Overview
-      url: /bluetick_landing_page.html
+    - title: Product 1 home
+      url: /leviathan_landing_page.html
+      output: web
+    - title: Release Notes
+      url: /leviathan_release.html
       output: web
 
-  - title: User Guide
-    output: web, pdf
-    folderitems:
 
-    - title: User Guide
-      url: /bluetick_user_guide.html
-      output: web, pdf

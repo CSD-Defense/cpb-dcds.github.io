@@ -4,10 +4,12 @@ keywords: leviathan
 summary: "Leviathan has eggs and things"
 sidebar: leviathan_sidebar
 permalink: leviathan.html
+toc: false
+
 folder: leviathan
 ---
 
-## [Leviathan Information](https://github.com/cpb-dcds/leviathan)
+## Leviathan Information
 
 A host collection framework for the Cyber Protection Brigade
 
