@@ -4,7 +4,6 @@ keywords: bluetick info
 summary: Analyzes payload entropy, file signatures, and other signature-based methods to identify whether or not the contents of an arbitrary file is encrypted, encoded, or plaintext
 sidebar: bluetick_sidebar
 permalink: bluetick.html
-toc: false
 folder: bluetick
 ---
 

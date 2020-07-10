@@ -4,7 +4,7 @@ keywords: leviathan
 summary: "Leviathan has eggs and things"
 sidebar: leviathan_sidebar
 permalink: leviathan.html
-toc: false
+
 
 folder: leviathan
 ---

@@ -3,11 +3,8 @@ title: Bluetick User Guide
 keywords: bluetick user guide
 sidebar: bluetick_sidebar
 permalink: bluetick_user_guide.html
-toc: false
 folder: bluetick
 ---
-# Bluetick: User Guide
-
 ## Scope
 
 //TODO: add scope

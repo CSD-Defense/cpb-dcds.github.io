@@ -24,7 +24,7 @@ entries:
     folderitems:
 
     - title: Overview
-      url: /bluetick_landing_page.html
+      url: /bluetick.html
       output: web
 
   - title: User Guide
