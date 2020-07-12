@@ -8,9 +8,6 @@ entries:
   - title: Products
     output: web
     folderitems:
-    - title: News
-      url: /news.html
-      output: web
     - title: This should change
       url: /mydoc_introduction.html
       output: web
