@@ -1,0 +1,3 @@
+A lot of the yml that is in this folder can be removed.  topnav.yml
+in-particular should stay.  Alternately, all of these can stay so that we can
+modify at a later time.

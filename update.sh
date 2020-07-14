@@ -1,4 +1,4 @@
 git add .
 git status
-git commit -m "Fixing vulnerable rubyzip and nokogiri"
+git commit -m "Removed much of the tutorial bloat."
 git push
