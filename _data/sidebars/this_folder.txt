@@ -1,0 +1,3 @@
+mydoc_sidebar.yml happens to be the main yaml for jekyll.  I did not write 
+down my notes for home_sidebar.yml, but as a quick and dirty: I do not know
+what that sidebar is used for.

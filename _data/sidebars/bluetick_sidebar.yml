@@ -1,8 +1,9 @@
 # This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
-- title: sidebar
-  product: DCDS
+- title: Bluetick
+  product: Bluetick
+  version: 1.0
   folders:
 
   - title:
@@ -18,11 +19,18 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Introduction
     output: web, pdf
     folderitems:
 
-    - title: About
-      url: /index.html
+    - title: Overview
+      url: /bluetick.html
+      output: web
+
+  - title: User Guide
+    output: web, pdf
+    folderitems:
+
+    - title: User Guide
+      url: /bluetick_user_guide.html
       output: web, pdf
-      type: homepage

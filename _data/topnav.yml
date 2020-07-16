@@ -4,18 +4,16 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/tomjoht/documentation-theme-jekyll
-    - title: News
-      url: /news
+      external_url: https://github.com/cpb-dcds/
 
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Help
+    - title: DCDS Help
       folderitems:
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
+        - title: DCDS Teams Channel
+          external_url: https://teams.microsoft.com/l/team/19%3ac318b2bed47741739c8b78927ed896a4%40thread.skype/conversations?groupId=5cdad8ad-62e7-44f3-a339-6f4098e771fd&tenantId=21acfbb3-32be-4715-9025-1e2f015cbbe9
         - title: Jekyll documentation
           external_url: http://jekyllrb.com/docs/home/
         - title: Jekyll on Stack Overflow
@@ -24,9 +22,8 @@ topnav_dropdowns:
           external_url: http://idratherbewriting.com/category-jekyll/
     - title: Products
       folderitems:
-        - title: Jekyll Documentation Theme
-          url: /mydoc_introduction.html
-        - title: Product 1
-          url: /p1_landing_page.html
-        - title: Product 2
-          url: /p2_landing_page.html
+        - title: Leviathan
+          url: /leviathan.html
+          #external_url: https://github.com/cpb-dcds/leviathan
+        - title: Bluetick
+          url: /bluetick.html
