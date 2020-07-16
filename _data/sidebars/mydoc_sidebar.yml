@@ -9,7 +9,7 @@ entries:
     output: pdf
     type: frontmatter
     folderitems:
-    
+
     - title:
       url: /titlepage.html
       output: pdf
@@ -30,5 +30,5 @@ entries:
       type: homepage
 
     - title: Development Practices
-      url: /dev_practices.md
+      url: /dev_practices.html
       output: web, pdf
