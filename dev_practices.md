@@ -1,47 +1,9 @@
-# DCDS Development Practices
-
-## Table of Contents
-[**1 DCDS Manifesto and 12 Principles**](#1---dcds-manifesto-and-12-principles)
-- [1.1 - Manifesto for Agile Software Development](#11---manifesto-for-agile-software-development)
-- [1.2 - DCDS 12 Principles](#12---dcds-12-principles)
-
-[**2 DCDS Daily Standup**](#2---dcds-daily-standup)
-- [2.1 Schedule](#21---schedule)
-- [2.2 Topics](#22---topics)
-
-[**3 DCDS Sprint Planning**](#3---dcds-sprint-planning)
-- [3.1 Sprints](#31---sprints)
-- [3.2 Confluence](#32---confluence)
-  - [3.2.1 User Story / Feature Checklist](#321---user-story-/-feature-checklist)
-  - [3.2.2 Sprint Reviews](#322---sprint-reviews)
-- [3.3 GitHub](#33---github)
-  - [3.3.1 Issue Template](#331---issue-template)
-  - [3.3.2 Sprint Board](#332---sprint-board)
-  - [3.3.3 Issue Weights and estimated weights vs actual weights](#333---issue-weights-and-estimated-weights-vs-actual-weights)
-  - [3.3.4 Pull Request Templates](#334---pull-request-templates)
-
-[**4 DCDS Documentation**](#4---dcds-documentation)
-- [4.1 README.md](#41---readmemd)
-- [4.2 GettingStarted.md](#42---gettingstartedmd)
-- [4.3 Requirements.md](#43---requirementsmd)
-- [4.4 Design.md](#44---designmd)
-- [4.5 UserGuide.md](#45---userguidemd)
-
-[**5 DCDS DevSecOps**](#5---dcds-devsecops)
-- [5.1 Containerization](#51---containerization)
-- [5.2 Application Isolation and Dependency Management](#52---application-isolation-and-dependency-management)
-- [5.3 Automation and Packaging](#53---automation-and-packaging)
-- [5.4 Continuous Integration and Testing](#54---continuous-integration-and-testing)
-
-[**6 DCDS Code Style Guide**](#6---dcds-code-style-guide)
-- [6.1 Python](#61---python)
-- [6.2 Golang](#62---golang)
-- [6.3 JavaScript](#63---javascript)
-- [6.4 Dart](#64---dart)
-- [6.5 C](#65---c)
-
-----
-----
+---
+title: "DCDS Development Practices"
+keywords: development practices
+sidebar: mydoc_sidebar
+permalink: dev_practices.html
+---
 
 ## **1 - DCDS Manifesto and 12 Principles**
 
