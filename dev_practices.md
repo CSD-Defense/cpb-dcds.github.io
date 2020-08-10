@@ -262,9 +262,57 @@ pipeline that automates a majority of the building and testing process.
 &nbsp;
 
 ### **6.4 - Dart**
-`//TODO`
+- Follow the [official Effective Dart style guide](
+https://dart.dev/guides/language/effective-dart/style) as closely as possible
 
 &nbsp;
 
 ### **6.5 - C**
-`//TODO`
+- Follow the [Barr Embedded C Coding Standard](
+https://barrgroup.com/embedded-systems/books/embedded-c-coding-standard) as
+closely as possible
+- Do not use all-encompassing `else` blocks; rather, have specific conditionals
+for failure cases.
+  - ```c
+    int good_func()
+    {
+       if (bad_thing1)
+       {
+          return -1;
+       }
+       do_something(); //doesn't need an else block; the above `if` returns
+       if (bad_thing2)
+       {
+          return -1;
+       }
+       do_something_else(); //also doesn't need an else block
+
+       //success case is not within any conditional and, as such, is
+       //communicated as the generally expected result
+       return 0;
+    }
+
+    int bad_func()
+    {
+       if (bad_thing1)
+       {
+          return -1;
+       }
+       else //below here doesn't need to be in an `else` block...
+       {
+          do_something();
+          if (bad_thing2)
+          {
+             return -1;
+          }
+          else //...otherwise you'll quickly find yourself buried in indents
+          {
+             do_something_else();
+
+             //success case is buried in conditionals, causing the expected
+             //results to be unintuitive
+             return 0;
+          }
+       }
+    }
+    ```
